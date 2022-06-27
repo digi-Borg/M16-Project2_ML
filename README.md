@@ -1,14 +1,18 @@
-# Project-2
-for team Cryvesto Mod 16 &amp; 17 project work 
+# Project-2 
 
-Requirements
+for team Cryvesto Mod 16 &amp; 17 project work 
+![P2TitlePic](Images/ReadmeTitle_2022-06-27182410.png)
+
+
+## Requirements
 Your assignment will be graded according to the expectations demonstrated in the following rubric.
 
 Proficiency (≥ 90% of the points)
 Approaching Proficiency (≥ 80% of the points)
 Progressing (≥ 70% of the points)
 Emerging (< 70% of the points)
-Software Version Control (10 points)
+
+## Software Version Control (10 points)
 Repository created on GitHub. (2 points)
 
 Files frequently committed to repository. (3 points)
@@ -17,12 +21,12 @@ Commit messages with appropriate level of detail included. (2 points)
 
 Repository organized, and relevant information and project files included. (3 points)
 
-Data Collection and Preparation (10 points)
+## Data Collection and Preparation (10 points)
 Data collected from CSV files, APIs, or databases by using Python or a Python library. (5 points)
 
-Data cleaned and prepared for the application or analysis by using Python or a Python library. (5 points)
+## Data cleaned and prepared for the application or analysis by using Python or a Python library. (5 points)
 
-Machine Learning (40 points)
+## Machine Learning (40 points)
 Jupyter notebook, Google Colab notebook, or Amazon SageMaker Studio notebook created to prepare training and testing datasets. (5 points)
 
 One or more machine learning models created. (5 points)
@@ -37,7 +41,7 @@ PNG images of your visualizations saved to distribute to the class and instructi
 
 One new machine learning library, machine learning model, or evaluation metric used that the class hasn't already covered. (10 points)
 
-Documentation (15 points)
+## Documentation (15 points)
 Code is well commented with concise, relevant notes. (5 points)
 
 GitHub README.md file includes a concise project overview. (2 points)
@@ -46,7 +50,7 @@ GitHub README.md file includes detailed usage and installation instructions. (3 
 
 GitHub README.md file includes either examples of the application or the results and summary of the analysis. (5 points)
 
-Presentation (25 points)
+## Presentation (25 points)
 Each project group will prepare a formal 10-minute presentation that includes the following:
 
 An executive summary of the project and project goals. (5 points)
